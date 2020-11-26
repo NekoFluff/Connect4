@@ -38,8 +38,8 @@ MonoBehaviour:
     - Mirror.Examples
     - Mirror.Examples.Cloud.GUI
     - kcp2k
-    - Mirror.Examples.Cloud.Pong
     - Assembly-CSharp
+    - Mirror.Examples.Cloud.Pong
     - Mirror.Authenticators
     - Mirror.example.RigidbodyPhysics
     - Mirror.Weaver
